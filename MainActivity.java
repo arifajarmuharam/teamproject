@@ -12,8 +12,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mTextView = (TextView) findViewById(R.id.text);
+        Button mButton = (Button) findViewById(R.id.preorder);
+        Button mButton = (Button) findViewById(R.id.product);
+        Button mButton = (Button) findViewById(R.id.promo);
+        Button mButton = (Button) findViewById(R.id.artikel);
 
-                setAmbienceEnabled();
+        Button mButton = (Button) findViewById(R.id.viewall);
+
     }
 }
