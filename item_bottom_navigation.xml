@@ -3,8 +3,8 @@
     <item android:title="Beranda"
         android:id="@+id/home"
         android:icon="@drawable/ic_home"/>
-    <item android:title="Kategori"
-        android:id="@+id/kategori"
+    <item android:title="Product"
+        android:id="@+id/product"
         android:icon="@drawable/ic_kategori"/>
     <item android:title="Cart"
         android:id="@+id/cart"
