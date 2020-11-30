@@ -111,20 +111,5 @@ public class MainActivity extends AppCompatActivity {
        
     }
 
-//    @OnClick(R.id.cv_artikel)
-//    public void listMenu(){
-//        Intent intent = new Intent(getApplicationContext(), ListMenuActivity.class);
-//        startActivity(intent);
-//    }
-//    @OnClick(R.id.cv_artikel)
-//    public void profile(){
-//        Intent intent = new Intent(getApplicationContext(), ListMenuActivity.class);
-//        startActivity(intent);
-//    }
-//
-//    @OnClick(R.id.cv_artikel)
-//    public void keranjang(){
-//        Intent intent = new Intent(getApplicationContext(), ListMenuActivity.class);
-//        startActivity(intent);
-//    }
+
 }
