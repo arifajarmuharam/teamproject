@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="Promo Diskon"
-        android:id="@+id/promo"
-        android:icon="@drawable/ic_diskon"/>
-    <item android:title="Artikel"
-        android:id="@+id/artikel"
-        android:icon="@drawable/ic_artikel"/>
-    <item android:title="View All"
-        android:id="@+id/viewall" />
-    <item android:title="PRE-ORDER NOW"
-        android:id="@+id/preorder" />
+
+    <item android:title="Maps"
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map"/>
 </menu>
